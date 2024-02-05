@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CUADRADITO DE COLORES</title>
+    <style>
+        body{
+            background-image: url("Campo de Fútbol.jpg");
+        }
+        #Imágenes{
+            width: 90%;
+            margin:auto;
+        }
+        #Imágenes img{
+            width: 30%;
+        }
+        .portero{
+            position: left;
+            : 1wx;
+            animation: 10s aparición;
+        }
+        @keyframes portero{
+            animation: 5s};
+    </style>
+</head>
+    <body>
+        <div id="Imágenes">
+            <img scr="Capdevila.jpg">
+            <img scr="Molina.jpg">
+            <img scr="Djukic.jpg">
+            <img scr="Naybet.jpg">
+            <img scr="Manuel Pablo.jpg">
+            <img scr="Mauro Silva.jpg">
+            <img scr="Djalminha.jpg">
+            <img scr="Valerón.jpg">
+            <img scr="Fran.jpg">
+            <img scr="Makaay.jpg">
+            <img scr="Bebeto.jpg">
+            <img scr="Arsenio.jpg">
+                    </div>
+        
+    </body>
+</html>
